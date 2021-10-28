@@ -55,28 +55,27 @@ import javax.net.ssl.HttpsURLConnection;                                        
 			    
 			 while(true)                                                        // using While loop to read the data From br object  
 				 {
-					 String line=br.readLine();                                 // Reading the data
-				 	 if(line==null)                                             // Using If statements for error or we can say for null messages
+					 String line=br.readLine();                         // Reading the data
+				 	 if(line==null)                                     // Using If statements for error or we can say for null messages
 					 {
-						 break;                                                 // If it is null then then break it
+						 break;                                     // If it is null then then break it
 					 }
-					 response.append(line);                                     // To concatenate the the message 
+					 response.append(line);                             // To concatenate the the message 
 				 }
 			 
 			 System.out.println(response);                                      // Printing the Response
 			 
 	 	  }  
 		 
-		 catch (Exception e)                                                    // Ending The Try and catch loop with handling exception        
+		 catch (Exception e)                                                        // Ending The Try and catch loop with handling exception        
 		  
 		         {
-					 e.printStackTrace();                                       // Method we are adding for to tell the error 
+					 e.printStackTrace();                               // Method we are adding for to tell the error 
 				 }
 	 }
 	 
 	 
-	 
-	  public static void main(String [] args)                                   // Using main function for calling
+	  public static void main(String [] args)                                           // Using main function for calling
 		  {
 			  Scanner sc=new Scanner(System.in);                                // Using Scanner class to take input
 			  
@@ -85,23 +84,23 @@ import javax.net.ssl.HttpsURLConnection;                                        
 			  System.out.println();
 			  System.out.println("Please Enter the Number");
 			  
-	          String a=sc.nextLine();                                           // Saving input in a
+	          String a=sc.nextLine();                                                   // Saving input in a
 	          System.out.println("Please Enter the Name");
 	          String b=sc.nextLine();
 			   
 	          System.out.println("");
 			     
-			  LocalDate d= LocalDate.now();                                   // Making Object for displaying date
-			  System.out.println("Date = "+d);                                // Asking for date
+			  LocalDate d= LocalDate.now();                                     // Making Object for displaying date
+			  System.out.println("Date = "+d);                                  // Asking for date
 			  
-			  LocalTime t= LocalTime.now();                                   // Making Object for displaying time
-			  System.out.println("Time = "+t);                                // Asking for Time
+			  LocalTime t= LocalTime.now();                                     // Making Object for displaying time
+			  System.out.println("Time = "+t);                                  // Asking for Time
 			 
-			  String v=" Mam";                                                // Creating a String for Mam
+			  String v=" Mam";                                                  // Creating a String for Mam
 			 
 			  System.out.println(""); 
 			  System.out.println("Message- ");
-			  HealthyLife.sendSms("Time for Vaccine "+b+v,a);                 // Calling Class then method and then using the messages
+			  HealthyLife.sendSms("Time for Vaccine "+b+v,a);                   // Calling Class then method and then using the messages
 			  
 		  }
  }
