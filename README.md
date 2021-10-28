@@ -23,8 +23,8 @@
                      In this code we are doing three things First taking a number of Individual person (Sunita Sharma mam) then we are asking for their name and then we are                          sending a message on their mobile phone through the message gateway that --it's time for their vaccine. 
                      we can send many more messages on their mobile phone to make them fit and Healthy.
     
-                     ## As I am an individual so I can send only a few messages to someone.
-                     ## Below I am attaching proof of this code also
+                ## As I am an individual so I can send only a few messages to someone,Not in Bulk.
+                ## Below I am attaching proof of this code also
                   
                     
 
