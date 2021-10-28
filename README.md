@@ -19,7 +19,14 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     
-
+#** Description ** - In This project, we are creating a code that helps old people to increase their Health.
+                     In this code we are doing three things First taking a number of Individual person (Sunita Sharma mam) then we are asking for their name and then we are                          sending a message on their mobile phone through the message gateway that --it's time for their vaccine. 
+                     we can send many more messages on their mobile phone to make them fit and Healthy.
+    
+                     ## As I am an individual so I can send only a few messages to someone.
+                     ## Below I am attaching proof of this code also
+                  
+                    
 
 ## Connect with me:
 <p align="left">
