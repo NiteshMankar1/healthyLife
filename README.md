@@ -41,5 +41,6 @@
 # Answer in the form of Screenshot for this code
 ![Vaccine Message](https://user-images.githubusercontent.com/93311533/139331067-c8debf43-25c8-4d89-9983-510a22cbf671.jpg)
 # Answer of the code on Eclipse
-![Healthcare](https://user-images.githubusercontent.com/93311533/139337266-df142e97-6645-47e2-af32-7d5855fe27ee.jpg)
+![HealthCare](https://user-images.githubusercontent.com/93311533/139337546-818f37d3-abbe-4796-a2ef-3d1dab242c08.jpg)
+
 
