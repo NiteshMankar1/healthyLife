@@ -24,7 +24,7 @@
                      we can send many more messages on their mobile phone to make them fit and Healthy.
     
                 ## As I am an individual so I can send only a few messages to someone,Not in Bulk.
-                ## Below I am attaching proof of this code also
+                ## Below I am attaching Some reply  of this code.
                   
                     
 
