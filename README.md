@@ -7,10 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Healthcare Project](https://drive.google.com/file/d/12f3PLYsW33myAOLGd7N4AODWpqYH-0zZ/view?usp=sharing)**
-
-- 🌱 I’m currently learning **Android.**
-
 
 - 📫 How to reach me **nitesh.mankar111@gmail.com**
 
